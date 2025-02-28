@@ -1,0 +1,122 @@
+[
+    {
+      "id": 0,
+      "imageUrl": "/pizza/1.svg",
+      "title": "Чилл Грилл ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 465,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "/pizza/2.svg",
+      "title": "Додстер Чилл Грилл  ",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 200,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "/pizza/3.svg",
+      "title": "Баварская  ",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 519,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "/pizza/4.svg",
+      "title": "Баварский ланчбокс ",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 229,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "/pizza/5.svg",
+      "title": "Кола-барбекю ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 519,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "/pizza/6.svg",
+      "title": "3 пиццы 35 см",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 1889,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "/pizza/7.svg",
+      "title": "Пепперони",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "/pizza/8.svg",
+      "title": "Креветки ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 289,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "/pizza/9.svg",
+      "title": "Омлет с беконом в пите",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "/pizza/10.svg",
+      "title": "Омлет с ветчиной и грибами в пите  ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 209,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 10,
+      "imageUrl": "/pizza/11.svg",
+      "title": "Омлет с пепперони в пите",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 11,
+      "imageUrl": "/pizza/12.svg",
+      "title": "Омлет сырный в пите ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    }
+  ]
